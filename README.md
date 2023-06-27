@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.statically.io/gh/Indra2108/cdn/main/dcloud_play_store_feature_graphic.png" /></p>
+<p align="center"><img src="https://cdn.statically.io/gh/Indra2108/cdn/main/%5BPortfolio%5D%20dcloud/dcloud_play_store_feature_graphic.png" /></p>
 
 # d.cloud
 > The 'd' in the *dcloud* stand for 'damar' (my name)
@@ -9,7 +9,7 @@ Just follow this guide: https://reactnative.dev/docs/signed-apk-android
 
 ### Screenshot
 ---
-<img src='https://cdn.statically.io/gh/Indra2108/cdn/main/image.png' />
+<img src='https://cdn.statically.io/gh/Indra2108/cdn/main/%5BPortfolio%5D%20dcloud/image.png' />
 
 ### ToDos
 ---
