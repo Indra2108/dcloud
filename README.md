@@ -7,6 +7,10 @@
 ---
 Just follow this guide: https://reactnative.dev/docs/signed-apk-android
 
+### Screenshot
+---
+<img src='https://cdn.statically.io/gh/Indra2108/cdn/main/image.png' />
+
 ### ToDos
 ---
 - [ ] No lodash needed
